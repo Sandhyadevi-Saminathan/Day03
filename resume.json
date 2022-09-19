@@ -1,0 +1,91 @@
+{
+	"resume": {
+		"contact" : {
+			"first_name": "Sandhya devi",
+			"last_name": "Saminathan",
+			"email": "sandhya021999@gmail.com",
+			"city": "Erode"
+		},
+
+		"education": [
+			{
+				"item-education": {
+                    "start-date": "2017",
+					"end-date": "2020",
+					"institution": {
+						"name": "Kongu Engineering college",
+						"city": "Perundurai",
+						"country": "India"
+					},
+				}
+			},
+			{	
+				"item-education": {
+                    "start-date": "2015",
+					"end-date": "2017",
+					"institution": {
+						"name": "Kongu Vellalar Matric.Hr.Sec school",
+						"city": "Perundurai",
+						"country": "India"
+					},
+				}
+			},
+			{	
+				"item-education": {
+					"institution": {
+						"name": "Govt.Girls.Hr.Sec.school",
+						"city": "Erode",
+						"country": "India"
+					},
+				}
+			}
+		],
+		"work": [
+			{
+				"item-work": {
+					"start-date": "2021",
+					"end-date": "Present",
+					"position": "System Engineer",
+					"company": {
+						"name": "Cognizant Technology solutions",
+						"city": "Coimbatore",
+						"country": "India"
+					},
+				}
+			}
+		],
+		"projects": [
+			{
+				"item-projects": {
+					"title": "Humana Helathcare Indutry",
+				}
+			}
+		],
+		"skills": [
+		],
+		"languages": [
+			{
+				"item-languages": {
+					"name": "C++",
+				}
+			},
+			{
+				"item-languages": {
+					"name": "Java"
+				}
+			}
+		],
+		"hobbies": [
+			{
+				"item-hobbies": {
+					"name": "Reading books"
+				}
+			},
+			{
+				"item-hobbies": {
+					"name": "Watching TV",
+				}
+			},
+		]
+	}
+}
